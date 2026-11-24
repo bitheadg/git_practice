@@ -1,14 +1,25 @@
 # install Git and Github CLI
 
-# config account
+# basic config
+#check default branch
+git config  init.defaultBranch
+#change default branch
+git config init.defaultBranch main
+
 --global applies the identity to all Git repositories on this Windows account.
 git config user.name "author"
 git config user.email "author@dot.com"
 They are not your GitHub/GitLab username and password.
 
+# commit to main
 
+# create branch
 
+# commit to dev
 
+# Pull Request from Github
+
+# Pull Request click and Merge pull request
 
 
 
